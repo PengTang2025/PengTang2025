@@ -38,4 +38,4 @@ This space documents both recent and past explorations, aiming to revisit core i
 
 - Languages: Python, C++
 - Frameworks: PyTorch
-- Interests: Transformer models & attention, computer vision, graph network
+- Interests: Computer vision and graph neural networks, with a current focus on Transformer models and attention mechanisms.
