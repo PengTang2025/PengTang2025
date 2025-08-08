@@ -3,7 +3,14 @@
 I'm an engineer with a diverse technical background: embedded systems during undergrad, computer vision during graduate, and quantitative development in the finance industry. 
 This space documents both recent and past explorations, aiming to revisit core ideas and extract deeper insights through hands-on experimentation. 🚀
 
----
+
+---  
+## ⭐ Currently Exploring  
+
+**DeepANI: Replacing Traditional ANI with Weakly Supervised Siamese Networks**  
+Deep learning meets genome comparison: a scalable alternative to ANI via weak supervision.  
+This approach combines pretrained sequence embeddings and sketch-based methods to enable accurate estimation of inter-species genomic similarity.  
+Status: Early-stage collaboration with biology PhD students at LMU Munich. Open-sourcing will be considered based on ongoing development and validation.
 
 ## ⭐ Jul–Aug 2025: Revisiting Transformer Details
 
