@@ -10,7 +10,7 @@ This space documents both recent and past explorations, aiming to revisit core i
 **DeepANI: Learning ANI Approximation via Weakly Supervised Siamese Networks**  
 Deep learning meets genome comparison: a scalable alternative to ANI via weak supervision.  
 This approach combines pretrained sequence embeddings and sketch-based methods to enable accurate estimation of inter-species genomic similarity.  
-**Status:** Early-stage collaboration with @jiehua1995, a biology PhD student at LMU Munich. Open-sourcing will be considered based on ongoing development and validation.
+**Status:** Early-stage collaboration with [@jiehua1995](https://github.com/jiehua1995), a biology PhD student at LMU Munich. Open-sourcing will be considered based on ongoing development and validation.
 
 ## ⭐ Jul–Aug 2025: Revisiting Transformer Details
 
