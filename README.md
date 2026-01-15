@@ -7,10 +7,27 @@ This space documents both recent and past explorations, aiming to revisit core i
 ---  
 ## ⭐ Currently Exploring  
 
-**DeepANI: Learning ANI Approximation via Weakly Supervised Siamese Networks**  
-Deep learning meets genome comparison: a scalable alternative to ANI via weak supervision.  
-This approach combines pretrained sequence embeddings and sketch-based methods to enable accurate estimation of inter-species genomic similarity.  
-**Status:** Early-stage collaboration with [@jiehua1995](https://github.com/jiehua1995), a biology PhD student at LMU Munich. Open-sourcing will be considered based on ongoing development and validation.
+- **Rust**
+    
+  I’m diving into Rust through Coursera training, exploring memory safety, concurrency, and building more robust systems. It’s been a great way to strengthen my systems-level engineering skills while having fun with a new language. 
+
+- **PanAIOmics: An integrated AI platform for clinically interpretable multi-omics analysis.**  
+
+  This project explores an intelligent system that integrates long-read whole-genome sequencing, proteomics (mass spectrometry), and metabolomics into **a unified multimodal framework**.
+
+  The focus is on transforming complex omics data into clinically interpretable representations, enabling physicians to use multi-omics results **without requiring additional training in molecular biology**, and supporting readable diagnostic reports and medication-related decision making.
+  
+  The work is conducted as a cross-disciplinary collaboration: **my contribution centers on AI system design and multimodal representation learning**, while the biological modeling and omics-specific interpretation are handled by [@jiehua1995](https://github.com/jiehua1995) with domain expertise.
+  
+  **Status:** The project is being developed in the context of an early-stage startup and is currently participating in entrepreneurship competitions for external review and validation.
+  
+- **DeepANI: Learning ANI Approximation via Weakly Supervised Siamese Networks**
+    
+  Deep learning meets genome comparison: a scalable alternative to ANI via weak supervision.
+  
+  This approach combines pretrained sequence embeddings and sketch-based methods to enable accurate estimation of inter-species genomic similarity.
+    
+  **Status:** Ongoing exploratory research focused on method validation and feasibility assessment, in collaboration with [@jiehua1995](https://github.com/jiehua1995), a biology PhD student at LMU Munich.  
 
 ## ⭐ Jul–Aug 2025: Revisiting Transformer Details
 
@@ -35,9 +52,11 @@ This approach combines pretrained sequence embeddings and sketch-based methods t
 
 | Tech Stack   | Project                               | Language/Tools    | Year  |
 |--------------|----------------------------------------|-------------------|--------|
-| Transformer  | Transformer Attention Visualization    | Python / PyTorch  | 2025   |
-| Transformer  | Pig Latin Seq2Seq                     | Python / PyTorch  | 2025   |
-| Transformer  | Transformer Copy Task                 | Python / PyTorch  | 2025   |
+| Rust | [Rust Learning: A_file_Reader_Application_by-Rust](https://github.com/PengTang2025/RUST2.1_A_file_Reader_Application_by-Rust) | Rust | 2026 |
+| Rust |[Rust Learning: Set my own Rust Templete](https://github.com/PengTang2025/RUST1.1_My_Templete) | Rust | 2025 | 
+| Transformer  | [Transformer Attention Visualization Experiment - Pig Latin Seq2Seq Task](https://github.com/PengTang2025/TransformerSeq2Seq-CopyTask-with-AttentionVis-CustomPigLatin)                     | Python / PyTorch  | 2025   | 
+| Transformer  | [Transformer Attention Visualization - customized layer](https://github.com/PengTang2025/modified_transformer_to_visualize_attention)    | Python / PyTorch  | 2025   |
+| Transformer  | [Transformer Copy Task](https://github.com/PengTang2025/transformer_copy)                 | Python / PyTorch  | 2025   |
 
 ---  
 
@@ -45,4 +64,4 @@ This approach combines pretrained sequence embeddings and sketch-based methods t
 
 - Languages: Python, C++
 - Frameworks: PyTorch
-- Interests: Computer vision and graph neural networks, with a current focus on Transformer models and attention mechanisms.
+- Interests: Computer vision and graph neural networks
