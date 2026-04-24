@@ -1,33 +1,24 @@
 # Welcome to My GitHub Homepage 👋
 
-I'm an engineer with a diverse technical background: embedded systems during undergrad, computer vision during graduate, and quantitative development in the finance industry. 
-This space documents both recent and past explorations, aiming to revisit core ideas and extract deeper insights through hands-on experimentation. 🚀
+**I am a researcher and engineer driven by a fundamental obsession: moving AI from heuristic "black boxes" toward rigorous, observable structures.**  
 
+My journey spans embedded systems , computer vision , and quantitative finance —each field reinforcing my belief that true reliability starts with understanding the underlying mechanics. This space documents my explorations—from deconstructing Transformer source code to analyzing GNN expressivity —where I revisit core ideas through hands-on experimentation to extract the mathematical truths hidden beneath the implementation.🚀
 
 ---  
+## ⭐ Blog  
+
+Two are under construction.🚧
+
 ## ⭐ Currently Exploring  
 
 - **Rust**
     
   I’m diving into Rust through Coursera training, exploring memory safety, concurrency, and building more robust systems. It’s been a great way to strengthen my systems-level engineering skills while having fun with a new language. 
 
-- **PanAIOmics: An integrated AI platform for clinically interpretable multi-omics analysis.**  
-
-  This project explores an intelligent system that integrates long-read whole-genome sequencing, proteomics (mass spectrometry), and metabolomics into **a unified multimodal framework**.
-
-  The focus is on transforming complex omics data into clinically interpretable representations, enabling physicians to use multi-omics results **without requiring additional training in molecular biology**, and supporting readable diagnostic reports and medication-related decision making.
-  
-  The work is conducted as a cross-disciplinary collaboration: **my contribution centers on AI system design and multimodal representation learning**, while the biological modeling and omics-specific interpretation are handled by [@jiehua1995](https://github.com/jiehua1995) with domain expertise.
-  
-  **Status:** The project is being developed in the context of an early-stage startup and is currently participating in entrepreneurship competitions for external review and validation.
-  
-- **DeepANI: Learning ANI Approximation via Weakly Supervised Siamese Networks**
+- **PanAIOmics: refined from multi-omics disease diagnostics toward GNN-based virtual cell modeling for drug discovery**  
+Refining from multi-omics disease diagnostics toward GNN-based virtual cell modeling for drug discovery………  
+To be continued……
     
-  Deep learning meets genome comparison: a scalable alternative to ANI via weak supervision.
-  
-  This approach combines pretrained sequence embeddings and sketch-based methods to enable accurate estimation of inter-species genomic similarity.
-    
-  **Status:** Ongoing exploratory research focused on method validation and feasibility assessment, in collaboration with [@jiehua1995](https://github.com/jiehua1995), a biology PhD student at LMU Munich.  
 
 ## ⭐ Jul–Aug 2025: Revisiting Transformer Details
 
