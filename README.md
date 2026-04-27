@@ -20,8 +20,8 @@ My journey spans embedded systems , computer vision , and quantitative finance �
 
 - **PanAIOmics: refined from multi-omics disease diagnostics toward GNN-based virtual cell modeling for drug discovery**  
 *Collaboration with a PhD researcher at LMU*                                                                 
-• Research direction iteratively refined from multi-omics disease diagnostics toward GNN-based virtual cell modeling for drug discovery.
-• Responsible for full AI component: algorithm design, GNN architecture selection and adaptation, model training and optimization.  
+• Research direction iteratively refined from multi-omics disease diagnostics toward GNN-based virtual cell modeling for drug discovery.  
+• Responsible for full AI component: algorithm design, GNN architecture selection and adaptation, model training and optimization.    
 • Exploring graph-structured biological representations and their generalization properties under distribution shifts.
     
 
