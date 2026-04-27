@@ -5,7 +5,7 @@
 My journey spans embedded systems , computer vision , and quantitative finance —each field reinforcing my belief that true reliability starts with understanding the underlying mechanics. This space documents my explorations—from deconstructing Transformer source code to analyzing GNN expressivity —where I revisit core ideas through hands-on experimentation to extract the mathematical truths hidden beneath the implementation.🚀
 
 ---  
-## ⭐ Blog  
+## ⭐ Blogs  
 
 [Why AI Won't Go to Jail: Of Tape Recorders, Pigeons, and Responsibility](https://github.com/PengTang2025/Blogs/blob/main/Why%20AI%20Won't%20Go%20to%20Jail%3A%20Of%20Tape%20Recorders%2C%20Pigeons%2C%20and%20Responsibility.md)  
   
